@@ -1,0 +1,7 @@
+daytona>=0.207.0
+streamlit>=1.40.0
+pandas>=2.2.0
+pydantic>=2.8.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+pytest>=8.0.0
